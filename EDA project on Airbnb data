@@ -7,7 +7,6 @@ drive.mount('/content/drive')
 !pip install matplotlib
 !pip install mapclassify
 !pip install pygwalker
-!git clone https://github.com/oaivanova/Mathshub-EDA-projects.git
 
 import pandas as pd
 from pandas_profiling import ProfileReport
